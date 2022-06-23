@@ -27,7 +27,7 @@ else if (operator == '/'){
     result = num1 / num2;
 }
 else{
-    alert("You entered an Invalid Operator!\n Please select either (+,-,*,/)");
+    alert("Invalid Operator!");
 }
 
 alert("Your answer is: "+result);
